@@ -60,32 +60,7 @@ make
 4. Open the output AssemblyCode.asm using [QtSpim](https://sourceforge.net/projects/spimsimulator/)
 
 
-## Authors and Acknowledgement
-
-The following are the collaborators of the project:
-
-- [Darahas Kopparapu](https://github.com/darahask)
-- [Shubhankar Bhadra](https://github.com/shobhi1310)
-- [Tapish Ojha](https://github.com/tapish2000)
-- [Vaishnavi](https://github.com/cs18b028)
 
 
-## Contributing
 
-First fork this repo then clone it into your system. Pull requests are welcome. For major changes, please open an # issue first to discuss what you would like to change.
-
-
-<!-- BASIC SYNTAX OF MARKDOWN FOR YOU TO USE -->
-
-<!-- # : For Title or h1 heading -->
-
-<!-- ## : For h2 heading and so on... -->
-
-<!-- 1. : For ordered list -->
-
-<!-- * or - : For unordered list -->
-
-<!-- [name][link]: For hyperlinks -->
-
-<!-- ![alt_name](link/source of image): For displaying image -->
 
